@@ -5,6 +5,7 @@
 ### Demo
    ![](https://github.com/MyylxWF/TableLayout/blob/master/tab_img.gif)
 ### 使用
+#### 直接复制TableLayout.java到你的自己定义View目录下，按照如下步骤使用
 
    * XML
 ```Xml   
